@@ -22,8 +22,7 @@
 
 
 ### Languages & Tools I Primarily Use:
-<img align="left" alt="TypeScript" width="26px" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png
-" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919832.png" />
 <img align="left" alt="React" width="26px" src="https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Next.js" width="26px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" />
