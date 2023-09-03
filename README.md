@@ -2,7 +2,7 @@
 **cybunayog/cybunayog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hey guys, I'm Cy 🫡
+### Hey guys, I'm Cy! 🫡
 
 ### I am current a Software Developer at ISBX
 
@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I practically live in the gym.
 
 ### Let's link up!
-[<img align="left" alt="Cy | LinkedIn" width="22px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />](https://www.linkedin.com/in/cybunayog/)
+[<img align="left" alt="Cy | LinkedIn" width="26px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />](https://www.linkedin.com/in/cybunayog/)
 
 </br>
 
