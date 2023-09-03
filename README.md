@@ -20,16 +20,16 @@
 ### Let's link up!
 [<img align="left" alt="Cy | LinkedIn" width="22px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />](https://www.linkedin.com/in/cybunayog/)
 
-
+</br>
 
 ### Languages & Tools I Primarily Use:
 <img align="left" alt="TypeScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919832.png" />
-<img align="left" alt="React" width="26px" src="https://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png" />
+<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="Next.js" width="26px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" />
-<img align="left" alt="Nest.js" width="26px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-256x255-r03j160r.png" />
+<img align="left" alt="Next.js" width="26px" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" /><img align="left" alt="Nest.js" width="26px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-256x255-r03j160r.png" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" />
 
+</br>
 
 ### Projects & Past Collaborations:
 1. [agape](https://github.com/agape-io/agape)
