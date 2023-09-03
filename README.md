@@ -4,7 +4,7 @@
 
 ### Hey guys, I'm Cy! 🫡
 
-### I am current a Software Developer at ISBX
+### I am currently a Software Developer at ISBX
 
 - 🔭 I’m currently working on a universal native app using a React framework, Expo, to work on my personal portfolio.
 - 🌱 I’m currently learning to do more backend work, and improve my frontend skills.
