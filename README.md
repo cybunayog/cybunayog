@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I practically live in the gym.
 
 ### Let's link up!
-[<img align="left" alt="Cy | LinkedIn" width="26px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />](https://www.linkedin.com/in/cybunayog/)
+[<img align="left" alt="Cy | LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/cybunayog/)
 
 </br>
 
