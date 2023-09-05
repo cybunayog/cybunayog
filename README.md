@@ -11,10 +11,8 @@
 - 👯 I’m looking to collaborate with others to learn more technologies outside of my comfort zone.
 - 🤔 I’m looking for help with managing deployments and developing a production-ready API with Nest.js.
 - 🏋️‍♂️ Goals:
-   - Finish existing projects and have them production-ready.
    - Start new projects with different frameworks/technologies.
    - Learn to create Docker containers for a potential boilerplate API.
-   - Work on personal portfolio and have it live. 
 - ⚡ Fun fact: I practically live in the gym.
 
 ### Let's link up!
