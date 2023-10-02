@@ -33,3 +33,4 @@
 1. [agape](https://github.com/agape-io/agape)
 2. [genshin-impact-app](https://github.com/timothylim17/ReactNative_Genshin-Impact-App)
 3. [APU Discord Bot](https://github.com/dylpick14/APU-Discord-Bot)
+4. [cnci-app](https://github.com/cybunayog/cnci-app)
