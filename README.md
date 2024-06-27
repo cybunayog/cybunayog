@@ -6,13 +6,14 @@
 
 ### I develop software~!
 
-- 🔭 I’m currently working on a universal native app using a React framework, Expo, to work on my personal portfolio.
+- 🔭 I’m currently working on a universal native app using a React framework, Expo, to work on my personal portfolio for practice purposes.
 - 🌱 I’m currently learning to do more backend work, and improve my frontend skills.
 - 👯 I’m looking to collaborate with others to learn more technologies outside of my comfort zone.
-- 🤔 I’m looking for help with managing deployments and developing a production-ready API with Nest.js.
+- 🤔 I’m looking for help with managing deployments and developing production-ready API's with Nest.js/Node.js.
 - 🏋️‍♂️ Goals:
    - Start new projects with different frameworks/technologies.
    - Learn to create Docker containers for a potential boilerplate API.
+   - Go outside of the scope of full-stack development and explore other realms of technologies
 - ⚡ Fun fact: I practically live in the gym.
 
 ### Let's link up!
