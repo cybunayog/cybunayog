@@ -6,13 +6,13 @@
 
 ### I develop software~!
 
-- 🔭 I’m currently working on a universal native app using a React framework, Expo, to work on my personal portfolio for practice purposes.
-- 🌱 I’m currently learning to do more backend work, and improve my frontend skills.
-- 👯 I’m looking to collaborate with others to learn more technologies outside of my comfort zone.
-- 🤔 I’m looking for help with managing deployments and developing production-ready API's with Nest.js/Node.js.
+- 🔭 I’m currently working on a universal native app using a React framework, Expo, to work on my personal portfolio for practice purposes
+- 🌱 I’m currently learning to do more backend work, and improve my frontend skills
+- 👯 I’m looking to collaborate with others to learn more technologies outside of my comfort zone
+- 🤔 I’m looking for help with managing deployments and developing production-ready API's with Nest.js/Node.js
 - 🏋️‍♂️ Goals:
-   - Start new projects with different frameworks/technologies.
-   - Learn to create Docker containers for a potential boilerplate API.
+   - Start new projects with different frameworks/technologies
+   - Learn to create Docker containers for a potential boilerplate API
    - Go outside of the scope of full-stack development and explore other realms of technologies
 - ⚡ Fun fact: I practically live in the gym.
 
@@ -33,5 +33,7 @@
 ### Projects & Past Collaborations:
 1. [agape](https://github.com/agape-io/agape)
 2. [genshin-impact-app](https://github.com/timothylim17/ReactNative_Genshin-Impact-App)
-3. [APU Discord Bot](https://github.com/dylpick14/APU-Discord-Bot)
-4. [cnci-app](https://github.com/cybunayog/cnci-app)
+3. [cnci-app](https://github.com/cybunayog/cnci-app)
+4. [chinese-zodiac-react](https://github.com/cybunayog/chinese-zodiac-react)
+5. [weathering-app](https://github.com/cybunayog/weathering-app)
+6. [APU Discord Bot](https://github.com/dylpick14/APU-Discord-Bot)
